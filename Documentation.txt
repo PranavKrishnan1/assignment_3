@@ -1,0 +1,7 @@
+Documentation
+
+This folder contains a script to generate a list of keywords using google autosuggest. An app to do the same is also
+present in this folder.
+
+By entering a keyword, the script adds a letter to it and scrapes the list of google autocomplete. For example, by
+entering the word "apple" the autocomplete results of "apple a" to "apple z" is scraped and returned as a csv file
